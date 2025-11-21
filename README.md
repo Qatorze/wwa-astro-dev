@@ -206,4 +206,4 @@ Publié sous licence MIT.
 
 Vous pouvez nous contacter via [Whatsapp](https://api.whatsapp.com/message/ULZITK5PFZDLK1?autoload=1&app_absent=0) !
 
-[![Travailler avec QATÔRZE](https://oxygenna-themes.b-cdn.net/foxi-astro/hireus.png)](mailto:info@qatorze.com,steeve.mk@qatorze.com)
+[![Travailler avec QATÔRZE](https://services.qatorze.com/public/wwa-image-contact-us.png)](mailto:info@qatorze.com,steeve.mk@qatorze.com)
